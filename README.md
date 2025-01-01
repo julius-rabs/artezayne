@@ -1,2 +1,518 @@
-# artezayne
-Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya
+
+
+
+<!DOCTYPE html>
+<html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
+    <meta title="Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya"/>
+    <title>Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya</title>
+    <meta name="description" content="Jenius196 merupakan situs agent slot pilihan terbaik untuk mendapatkan pengalaman bermain dengan adil dan transparan yang pastinya aman terpercaya. "/>
+    <meta name="keywords" content="jenius196, jenius 196"/>
+	<meta name="google-site-verification" content="rb6msUHyAuKg3pUy_eWlh0bXYueq5cffS3gL3K5MO0A" />
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="webcrawlers" content="all"/>
+    <meta name="spiders" content="all"/>
+    <meta property="og:title" content="Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya"/>
+    <meta property="og:description" content="Jenius196 merupakan situs agent slot pilihan terbaik untuk mendapatkan pengalaman bermain dengan adil dan transparan yang pastinya aman terpercaya. "/>
+    <meta property="og:url" content="https://artezayne.com/"/>
+    <meta property="og:site_name" content="jenius196"/>
+    <meta property="og:author" content="jenius196"/>
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaQ9aW_QRSBbE2798_y7s0KX4h6QqWaTEczoSgsowtWIpFe14F74MWdN-7LzHOrfMt7XEIeF-yiqpCtA08fn9dVmcFkwD1zUDobNWjKzUc6vTpqsGBR9tsRgIjrHRqs8jtclYoO3DCVugjbsQ51zG-BwZtuqSqjjuwhYGrS114slXpRKO4Q432kYttuOs/s626/Screenshot%202024-08-27%20141730.webp"/>
+    <meta property="og:type" content="website"/>
+    <meta name="geo.region" content="ID-JKT"/>
+    <meta name="language" content="Indonesia">
+    <meta name="theme-color" content="navy">
+    <link rel="canonical" href="https://artezayne.com/"/>
+    <link rel="alternate" hreflang="id" href="https://artezayne.com/"/>
+    <link rel="apple-touch-icon-precomposed" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaQ9aW_QRSBbE2798_y7s0KX4h6QqWaTEczoSgsowtWIpFe14F74MWdN-7LzHOrfMt7XEIeF-yiqpCtA08fn9dVmcFkwD1zUDobNWjKzUc6vTpqsGBR9tsRgIjrHRqs8jtclYoO3DCVugjbsQ51zG-BwZtuqSqjjuwhYGrS114slXpRKO4Q432kYttuOs/s626/Screenshot%202024-08-27%20141730.webp">
+    <link rel="icon" href="https://assetjenius196.site/cdn/shop/file/icojenius196.jpg" type="image/x-icon">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }@-moz-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }@-ms-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }@-o-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }@keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }</style>
+    <noscript>
+      <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+    </noscript>
+    <style amp-custom="">
+      *,
+      .product-features__heading p,
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        font-family: 'Trebuchet MS', sans-serif;
+      }
+
+     * {
+        box-sizing: border-box;
+        font-family: 'Trebuchet MS', sans-serif;
+        transition: .2s linear;
+        font-size: 16px;
+        line-height: 150%
+      }
+
+      h1,
+      h2 {
+        line-height: 100%;
+        margin-bottom: 1.5rem
+      }
+
+      body {
+        background: -moz-linear-gradient(left, #a80000 0, #a80000 35%, #a80000 65%, #2b0d0d 100%);
+        background: -webkit-linear-gradient(left, #a80000 0, #a80000 35%, #a80000 65%, #a80000 100%);
+        background: linear-gradient(to right, #a80000 0, #a80000 35%, #a80000 65%, #a80000 100%);
+        color: #fff
+      }
+
+      .gradient-bg {
+        background: #232526;
+        background: -webkit-linear-gradient(to top, #414345, #232526);
+        background: linear-gradient(to top, #414345, #232526)
+      }
+
+      .content-width {
+        width: 70%;
+        margin: 0 auto
+      }
+
+      .content {
+        margin: 0 auto;
+        padding: 4em 0;
+        line-height: 160%
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: #778bc5
+      }
+
+      h1 {
+        font-size: 2.8em;
+        color: #fff
+      }
+
+      h2 {
+        font-size: 2em
+      }
+
+      h3 {
+        font-size: 1.5em;
+        margin-bottom: 1em
+      }
+
+      .clearfix {
+        clear: both
+      }
+
+      .green-text {
+        color: #3ebf43
+      }
+
+      .flex {
+        display: flex;
+        flex-direction:column;
+        align-items:center;
+      }
+
+      .flex-wrap {
+        flex-wrap: wrap
+      }
+
+      .flex-center {
+        justify-content: center;
+        align-items: center
+      }
+
+      .flex-space-around {
+        justify-content: space-around
+      }
+
+      .flex-space-between {
+        justify-content: space-between
+      }
+
+      .flex-column {
+        flex-direction: column
+      }
+
+      .flex-half {
+        width: 48%
+      }
+
+      .text--capitalize {
+        text-transform: capitalize
+      }
+
+      .text--secondary {
+        color: #566584
+      }
+
+      .btn {
+        padding: 12px 40px;
+        margin: 0 10px;
+        color: #fff;
+        display: flow;
+        border-radius: 4px;
+        border: 2px solid transparent;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        text-shadow: 0 1px 5px rgba(0, 0, 0, .75)
+      }
+
+      .btn--primary {
+        background-color: #f1983b;
+        border-color: transparent;
+        color: #fff;
+        border-radius: 10px
+      }
+
+      .btn--secondary {
+        background: 0 0;
+        border: 2px solid #fff;
+        border-radius: 10px
+      }
+
+      .btn--primary:hover,
+      .btn--secondary:hover {
+        background-color: #22d62e;
+        border-color: #FFD700;
+        color: #fff
+      }
+
+      .sidebar__nav-link:hover,
+      a:hover,
+      footer .meta-content a {
+        color: cyan
+      }
+
+      a,
+      footer a {
+        color: cyan;
+        text-decoration: none
+      }
+
+      .border-round {
+        border-radius: 5px
+      }
+
+      .box-shadow {
+        box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24)
+      }
+
+      .animate {
+        transition: .2s ease-in-out
+      }
+
+
+      #hero {
+        width: 100%
+      }
+
+      header.hero__header {
+        height: 80px;
+        background-color: #c71c1c
+      }
+      .logo_header {
+        display: flex;
+        justify-content: space-between;
+      }
+      
+      .logo {
+        width: 224px;
+        margin-right: 0
+      }
+
+      .hero__menu nav a {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-bottom: 5px;
+        border-bottom: 1px
+      }
+
+      .hero__body {
+        margin: 0 auto;
+        height: 70%
+      }
+
+      .hero__content {
+        padding: 40px 0 90px;
+        color: #fff
+      }
+
+      .hero__content amp-img {
+        max-width: 100%
+      }
+
+      .hero__content>div,
+      .product-features__content,
+      .product-features__graphic {
+        width: 80%
+      }
+
+      .hero__content>div:nth-of-type(2) .btn {
+        margin: 25px 0
+      }
+
+      .hero__content__cta {
+        font-size: 140%;
+      }
+
+      .hero__content__cta.btn--primary {
+        background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0, 255, 0) 14.28%, rgb(0, 255, 255) 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+        background-size: 600vw 600vw;
+        animation: slide 10s infinite linear forwards;
+      }
+
+      @keyframes slide {
+        0% {
+          background-position: 600vw
+        }
+
+        100% {
+          background-position: 0%
+        }
+      }
+
+      footer {
+        background-color: #c71c1c;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        padding: 35px 0 35px
+      }
+
+
+      @media only screen and (max-width:1450px) {
+        #hero {
+          min-height: 865px;
+        }
+
+        .hero__body {
+          height: 75%
+        }
+
+        h1 {
+          font-size: 2.8em
+        }
+
+
+      @media only screen and (max-width:1030px) {
+        .content-width {
+          width: 85%
+        }
+
+        h1 {
+          font-size: 2em
+        }
+
+        h2 {
+          font-size: 1.8em
+        }
+
+        h3 {
+          font-size: 1.2em
+        }
+
+        nav.hide-mobile {
+          display: none
+        }
+
+        .features__highlight {
+          padding: 50px 30px
+        }
+     
+      @media only screen and (max-width:600px) {
+
+        .logo,
+        .product-feature .product-feature__graphic {
+          width: 200px
+        }
+
+        * {
+          font-size: 14px;
+          line-height: 160%
+        }
+
+        .logo {
+          margin-left: 0;
+          margin-right: 0
+        }
+
+        .content-width {
+          width: 100%
+        }
+
+        #hero {
+          min-height: 720px;
+        }
+
+        #hero .hero__header .content-width {
+          margin: 0
+        }
+
+        #logo {
+          width: 50%
+        }
+
+        #hero header nav,
+        .hero__header__cta {
+          display: none
+        }
+
+        .hero__body {
+          flex: 1;
+          padding: 40px 20px
+        }
+
+        .hero__body .hero__content {
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          margin: 0;
+          padding-top: 0px
+        }
+
+        .hero__body .hero__content>div {
+          width: 100%;
+          text-align: center;
+          margin-top: 20px
+        }
+
+       
+
+        h1 {
+          font-size: 1.7em;
+          margin-top: 1em
+        }
+
+        h2 {
+          font-size: 1.5em;
+          margin-bottom: 1em
+        }
+
+        h3 {
+          font-size: 1.2em
+        }
+
+        .features__highlight {
+          padding: 50px 10px
+        }
+
+        #footer-content {
+          width: 90%;
+          text-align: center
+        }
+
+        #footer-content p {
+          margin-bottom: .5em
+        }
+
+        .copyright {
+          display: flex;
+          justify-content: center;
+          color: #ffffff;
+          text-align: center
+        }
+
+        .copyright div {
+          padding-bottom: 10px
+        }
+      }
+    </style>
+  </head>
+  <body> 
+    <section id="hero" class="hero-bg">
+      <header class="hero__header flex flex-center">
+        <div class="logo_header">
+          <div class="hero__menu flex">
+            <div class="logo">
+              <a href="https://artezayne.com/">
+                <amp-img class="hero__logo" src="https://assetjenius196.site/cdn/shop/file/logojenius196.gif" width="365" height="80" layout="responsive" alt="jenius196"></amp-img>
+              </a>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div class="hero__body content-width flex flex-center">
+        <div class="hero__content flex flex-space-between">
+          <div>
+            <amp-img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaQ9aW_QRSBbE2798_y7s0KX4h6QqWaTEczoSgsowtWIpFe14F74MWdN-7LzHOrfMt7XEIeF-yiqpCtA08fn9dVmcFkwD1zUDobNWjKzUc6vTpqsGBR9tsRgIjrHRqs8jtclYoO3DCVugjbsQ51zG-BwZtuqSqjjuwhYGrS114slXpRKO4Q432kYttuOs/s626/Screenshot%202024-08-27%20141730.webp" width="300" height="300" layout="responsive" alt="jenius196"></amp-img>
+          </div>
+          <div>
+            <h1>Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya</h1>
+            <a href="https://cutt.ly/Jenius196-Login" class="hero__content__cta btn btn--secondary">Masuk</a>
+            <a href="https://cutt.ly/Jenius196-Login" class="hero__content__cta btn btn--primary">Daftar</a>
+            <h1 style="text-align: justify;">Jenius196 : Agent Situs Slot Fairplay No 1 Di Indonesia Raya</h1>
+        <p>Jenius196 merupakan situs agent slot pilihan terbaik untuk mendapatkan pengalaman bermain dengan adil dan transparan yang pastinya aman terpercaya. Sebagai penyedia game slot terlengkap di indonesia, <a href="https://artezayne.com">Jenius196</a> sudah membangun reputasi yang sangat tinggi di kalangan para pecinta game slot. Maka dari itu sebagai penyedia platform game slot Jenius196 selalu mengutamakan kenyamanan para pemainnya.</p>
+        <h2>Keuntungan Bergabung Sebagai Pemain Jenius196 Agent Situs Slot No 1</h2>
+        <h3>1. Situs Sudah Berlisensi Resmi</h3>
+        <p>Jenius196 sudah menjamin keamanan serta kenyamanan pemainnya. Dengan berlisensi resmi dan sudah menggunakan keamanan AI, Jenius196 sudah pasti melindungi data pemain dan history keuangannya. Hal ini sudah sangat di pastikan dengan banyaknya para pemain yang merasa nyaman bermain disini.</p>
+        <h3>2. Transparan dalam permainan</h3>
+        <p>Jenius196 selalu memegang teguh kejujuran, adil dan transparan dalam permainan. Dengan sistem AI sudah di pastikan member tidak akan merasa dicurangi dalam permainan. Jenius196 juga selalu memastikan hasil permainan murni tanpa indikasi kecurangan dan murni berdasarkan keberuntungan maupun strategi pemain itu sendiri.</p>
+        <h3>3. Beragam Bonus Dan Event Besar Setiap Bulannya</h3>
+        <p>Jenius196 menawarkan beragam bonus serta event besar setiap bulannya yang pastinya sangat menarik untuk di ikuti, dimulai dari bonus new member, bonus rollingan, bonus kekalahan dan ada juga event Scartter Mahjong x500 &amp; x1000, Mahjong Scatter Hitam, dan masih banyak lagi bonus dan event yang membuat pemain mendapatkan untung yang besar</p>
+        <h2>Apa Keunggulan Jenius196 ?</h2>
+        <ul>
+        <li><strong>Mempunyai Private Server:&nbsp;</strong>Jenius196 mempunyai server khusus untuk permain yang menjadikan perbedaannya adalah di setiap game terdapat server yang sedang bagus pecahannya, dan untuk setiap game juga mempunyai servernya tersendiri</li>
+        <li><strong>Daftar Mudah Tanpa Ribet:&nbsp;</strong>Jenisu196 juga mempermudah bagi calon pemain untuk mendaftar, tidak perlu identitas apapun untuk mendaftarkan diri, cukup id password no wa serta norek yang benar, dikarnakan untuk mempermudah saat melakukan deposit maupun withdraw.</li>
+        <li><strong>Pelayanan CS 24/7:&nbsp;</strong>Jenius196 selalu menyediakan layanan yang bisa membantu pemain kapan saja, pelayanan ini bertujuan untuk melayani keluhan pemain yang mengalami masalah, mau itu transaksi maupun lupa id dan password.</li>
+        </ul>
+        <h2>Kesimpulan</h2>
+        <p>Bagi para pemain yang ingin serius mencari tempat paling aman dalam bermain game slot, jenius196 sudah sangat tepat untuk dipilih, Dengan memegang teguh kejujuran, adil dan transparan serta pelayanan yang sangat responsif, Jenius196 selalu memastikan pemain bisa bermain dengan aman dan menyengangkan serta mendapatkan pengalaman baru bermain di sini.</p>
+          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="copyright">Copyright 2024 &#169; S3Oj4wS| All Rights Reserved.</div>
+    </footer>
+  </body>
+</html>
